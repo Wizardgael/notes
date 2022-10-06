@@ -1,0 +1,17 @@
+#+title: Incremental
+#+author: glb
+#+date: <2022-10-06 jeu.>
+
+* MonterIncr
+
+** Détails
+
+Jeu de capture de monstre. Il faudra accumuler des fragments pour débloquer de nouveaux monstres.
+Combat en 3v3, les monstres possèdes des attaques (une cibles ou multicibles (2/3 cibles)) ou des buffs/heal
+Le but est de monter ses monstres a leurs niveaux max pour pouvoir ensuite les reincarner pour faire monter les stats a nouveau et augmenter le niveau max
+Niveau max: 10 => 9999
+Une fois au niveau 9999, une super réincarnation est disponible, augmentant le nombres d'étoiles et permettant de débloquer de nouveaux talents/capacité
+
+** Monstres
+
+Slimes
