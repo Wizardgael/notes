@@ -12,6 +12,50 @@ Le but est de monter ses monstres a leurs niveaux max pour pouvoir ensuite les r
 Niveau max: 10 => 9999
 Une fois au niveau 9999, une super réincarnation est disponible, augmentant le nombres d'étoiles et permettant de débloquer de nouveaux talents/capacité
 
-** Monstres
+** [0/3] Monstres
 
-Slimes
+- [ ] Slime
+  - Talent
+  - Compétences
+  - Statistiques
+    - *Hp* : 10
+    - *Atk* : 10
+    - *Def* : 10
+    - *SAtk* : 10
+    - *SDef* : 10
+- [ ] Araignée
+  - Talent
+  - Compétences
+  - Statistiques
+    - *Hp* : 10
+    - *Atk* : 10
+    - *Def* : 10
+    - *SAtk* : 10
+    - *SDef* : 10
+- [ ] Zombie
+  - Talent
+  - Compétences
+  - Statistiques
+    - *Hp* : 10
+    - *Atk* : 10
+    - *Def* : 10
+    - *SAtk* : 10
+    - *SDef* : 10
+
+** [0/3] Talents
+
+- [ ] Absorbant
+  - *Description* : Réduit les dégats physique reçus
+- [ ] Intimidation
+  - *Description* : Réduit l'attaques des montres en face
+- [ ] Fermeté
+  - *Description* : Empêche le monstre de mourir une fois par combat
+
+** [0/3] Compétences
+
+- [ ] Charge
+  - *Type* : =Normal=
+- [ ] Coup de poing
+  - *Type* : =Normal=
+- [ ] Crachat
+  - *Type* : =Eau=
