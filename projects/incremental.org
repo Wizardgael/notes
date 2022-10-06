@@ -18,29 +18,26 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - Talent
   - Compétences
   - Statistiques
-    - *Hp* : 10
-    - *Atk* : 10
-    - *Def* : 10
-    - *SAtk* : 10
-    - *SDef* : 10
+   | *hp* | *atk | *def* | *satk* | *sdef* |
+   |------+------+-------+--------+--------|
+   |   10 |   10 |    10 |     10 |     10 |
+
 - [ ] Araignée
   - Talent
   - Compétences
   - Statistiques
-    - *Hp* : 10
-    - *Atk* : 10
-    - *Def* : 10
-    - *SAtk* : 10
-    - *SDef* : 10
+   | *hp* | *atk | *def* | *satk* | *sdef* |
+   |------+------+-------+--------+--------|
+   |   10 |   10 |    10 |     10 |     10 |
+
 - [ ] Zombie
   - Talent
   - Compétences
   - Statistiques
-    - *Hp* : 10
-    - *Atk* : 10
-    - *Def* : 10
-    - *SAtk* : 10
-    - *SDef* : 10
+   | *hp* | *atk | *def* | *satk* | *sdef* |
+   |------+------+-------+--------+--------|
+   |   10 |   10 |    10 |     10 |     10 |
+
 
 ** [0/3] Talents
 
@@ -52,7 +49,6 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - *Description* : Empêche le monstre de mourir une fois par combat
 
 ** [0/3] Compétences
-
 - [ ] Charge
   - *Type* : =Normal=
 - [ ] Coup de poing
