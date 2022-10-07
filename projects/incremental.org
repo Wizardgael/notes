@@ -15,29 +15,36 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
 ** [0/3] Monstres
 
 - [ ] Slime
-  - Talent
+  - Talent : Absorbant
   - Compétences
   - Statistiques
    | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+------+-------+--------+--------|
-   |   10 |   10 |    10 |     10 |     10 |
+   |------+-------+-------+--------+--------|
+   |   10 |     1 |     3 |      2 |      2 |
 
 - [ ] Araignée
-  - Talent
+  - Talent : Intimidation
   - Compétences
   - Statistiques
    | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+------+-------+--------+--------|
-   |   10 |   10 |    10 |     10 |     10 |
+   |------+-------+-------+--------+--------|
+   |    7 |     4 |     2 |      1 |      2 |
 
 - [ ] Zombie
-  - Talent
+  - Talent : Fermeté
   - Compétences
   - Statistiques
    | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+------+-------+--------+--------|
-   |   10 |   10 |    10 |     10 |     10 |
+   |------+-------+-------+--------+--------|
+   |   12 |     1 |     3 |      1 |      3 |
 
+- [ ] Gros Slime
+  - Talent : Absorbant
+  - Compétences
+  - Statistiques
+   | *hp* | *atk* | *def* | *satk* | *sdef* |
+   |------+-------+-------+--------+--------|
+   |   19 |     2 |     5 |      4 |      3 |
 
 ** [0/3] Talents
 
@@ -66,6 +73,13 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
 
 Les niveaux seront composé de 1 a trois monstres adverse, il donneront de l'expérience, de l'or ainsi qu'une probabilité de drop un fragment du monstre.
 
+*** Monde 1 - Forêt
+
+| *Monstres*   | Probabilité d'apparition | Niveau Min | Niveau Max |
+| =Slime=      |                      50% |          1 |          5 |
+| =Araignée=   |                      40% |          1 |          7 |
+| =Gros Slime= |                      10% |          5 |         10 |
+
 ** Fragments
 
 Les fragments seront obtenable en tuant des monstres qui auront une probabilité de drop basé sur leur rareté.
@@ -73,3 +87,12 @@ Les fragments seront obtenable en tuant des monstres qui auront une probabilité
 | *Type*             | Commun | Peu Commun | Rare | Epique | Legendaire | Unique | Mythique |
 | *Probabilité*      |    10% |         8% |   6% |     4% |         3% |     2% |       1% |
 | *Quantité requise* |     50 |         50 |   45 |     40 |         25 |     15 |       10 |
+
+** Calculs
+
+$f = (l * s)+(l * i/4)+(l * e/4)$
+$f = Statistique Finale$
+$l = Niveau$
+$s = Statistique de base$
+$i = iv$
+$e = ev$
