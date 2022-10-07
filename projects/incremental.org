@@ -18,7 +18,7 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - Talent
   - Compétences
   - Statistiques
-   | *hp* | *atk | *def* | *satk* | *sdef* |
+   | *hp* | *atk* | *def* | *satk* | *sdef* |
    |------+------+-------+--------+--------|
    |   10 |   10 |    10 |     10 |     10 |
 
@@ -26,7 +26,7 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - Talent
   - Compétences
   - Statistiques
-   | *hp* | *atk | *def* | *satk* | *sdef* |
+   | *hp* | *atk* | *def* | *satk* | *sdef* |
    |------+------+-------+--------+--------|
    |   10 |   10 |    10 |     10 |     10 |
 
@@ -34,7 +34,7 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - Talent
   - Compétences
   - Statistiques
-   | *hp* | *atk | *def* | *satk* | *sdef* |
+   | *hp* | *atk* | *def* | *satk* | *sdef* |
    |------+------+-------+--------+--------|
    |   10 |   10 |    10 |     10 |     10 |
 
@@ -51,7 +51,25 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
 ** [0/3] Compétences
 - [ ] Charge
   - *Type* : =Normal=
+    | *BP* | *Type*   |
+    |   10 | Physique |
 - [ ] Coup de poing
   - *Type* : =Normal=
+    | *BP* | *Type*   |
+    |   10 | Physique |
 - [ ] Crachat
   - *Type* : =Eau=
+    | *BP* | *Type*  |
+    |   10 | Special |
+
+** Niveaux
+
+Les niveaux seront composé de 1 a trois monstres adverse, il donneront de l'expérience, de l'or ainsi qu'une probabilité de drop un fragment du monstre.
+
+** Fragments
+
+Les fragments seront obtenable en tuant des monstres qui auront une probabilité de drop basé sur leur rareté.
+
+| *Type*             | Commun | Peu Commun | Rare | Epique | Legendaire | Unique | Mythique |
+| *Probabilité*      |    10% |         8% |   6% |     4% |         3% |     2% |       1% |
+| *Quantité requise* |     50 |         50 |   45 |     40 |         25 |     15 |       10 |
