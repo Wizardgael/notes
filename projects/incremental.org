@@ -104,36 +104,36 @@ Les fragments seront obtenable en tuant des monstres qui auront une probabilité
 
 $f = (l * s * m)+(l * i/4)+(l * e/4)$
 
-$f = Statistique Finale$
+*f = Statistique Finale*
 
-$l = Niveau$
+*l = Niveau*
 
-$s = Statistique de base$
+*s = Statistique de base*
 
-$m = Multiplier de la stat$
+*m = Multiplier de la stat*
 
-$i = iv$
+*i = iv*
 
-$e = ev$
+*e = ev*
 
 *** Attaque
 
 $d = ((((((2 * l * c) / 5) + 2) * bp * a / d) / 50) + 2) * stab * t1 * roll$
 
-$d = Dégats$
+*d = Dégats*
 
-$l = Niveau$
+*l = Niveau*
 
-$c = critique(1.5 si crit sinon 1)$
+*c = critique(1.5 si crit sinon 1)*
 
-$bp = Puissance de base de l'attaque$
+*bp = Puissance de base de l'attaque*
 
-$a = ataque du monstre$
+*a = ataque du monstre*
 
-$d = defense du monstre$
+*d = defense du monstre*
 
-$stab = même type de l'attaque que le monstre$
+*stab = même type de l'attaque que le monstre*
 
-$t1 = type1 du monstre$
+*t1 = type1 du monstre*
 
-$roll = valeur aléatoire entre 0.9 et 1.1$
+*roll = valeur aléatoire entre 0.9 et 1.1*
