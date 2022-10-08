@@ -80,6 +80,10 @@ Les niveaux seront composé de 1 a trois monstres adverse, il donneront de l'exp
 | =Araignée=   |                      40% |          1 |          7 |
 | =Gros Slime= |                      10% |          5 |         10 |
 
+** Réincarnation
+
+Pour se réincarner, il faut consommer des fragments du monstre lorsqu'il est niveau max
+
 ** Fragments
 
 Les fragments seront obtenable en tuant des monstres qui auront une probabilité de drop basé sur leur rareté.
