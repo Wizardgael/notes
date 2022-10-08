@@ -18,33 +18,33 @@ Une fois au niveau 9999, une super réincarnation est disponible, augmentant le 
   - Talent : Absorbant
   - Compétences
   - Statistiques
-   | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+-------+-------+--------+--------|
-   |   10 |     1 |     3 |      2 |      2 |
+   | *hp* | *atk* | *def* | *satk* | *sdef* | *spd* |
+   |------+-------+-------+--------+--------+-------|
+   |   10 |     1 |     3 |      2 |      2 |     1 |
 
 - [ ] Araignée
   - Talent : Intimidation
   - Compétences
   - Statistiques
-   | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+-------+-------+--------+--------|
-   |    7 |     4 |     2 |      1 |      2 |
+   | *hp* | *atk* | *def* | *satk* | *sdef* | *spd* |
+   |------+-------+-------+--------+--------+-------|
+   |    7 |     4 |     2 |      1 |      2 |     1 |
 
 - [ ] Zombie
   - Talent : Fermeté
   - Compétences
   - Statistiques
-   | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+-------+-------+--------+--------|
-   |   12 |     1 |     3 |      1 |      3 |
+   | *hp* | *atk* | *def* | *satk* | *sdef* | *spd* |
+   |------+-------+-------+--------+--------+-------|
+   |   12 |     1 |     3 |      1 |      3 |     1 |
 
 - [ ] Gros Slime
   - Talent : Absorbant
   - Compétences
   - Statistiques
-   | *hp* | *atk* | *def* | *satk* | *sdef* |
-   |------+-------+-------+--------+--------|
-   |   19 |     2 |     5 |      4 |      3 |
+   | *hp* | *atk* | *def* | *satk* | *sdef* | *spd* |
+   |------+-------+-------+--------+--------+-------|
+   |   19 |     2 |     5 |      4 |      3 |     1 |
 
 ** [0/3] Talents
 
@@ -88,9 +88,21 @@ Les fragments seront obtenable en tuant des monstres qui auront une probabilité
 | *Probabilité*      |    10% |         8% |   6% |     4% |         3% |     2% |       1% |
 | *Quantité requise* |     50 |         50 |   45 |     40 |         25 |     15 |       10 |
 
+** Statistiques
+
+| *Nom* | *Multiplicateur* |
+| Hp    |                4 |
+| Atk   |                1 |
+| Def   |                1 |
+| SAtk  |                1 |
+| SDef  |                1 |
+| Spd   |                1 |
+
 ** Calculs
 
-$f = (l * s)+(l * i/4)+(l * e/4)$
+*** Statistiques
+
+$f = (l * s * m)+(l * i/4)+(l * e/4)$
 
 $f = Statistique Finale$
 
@@ -98,6 +110,30 @@ $l = Niveau$
 
 $s = Statistique de base$
 
+$m = Multiplier de la stat$
+
 $i = iv$
 
 $e = ev$
+
+*** Attaque
+
+$d = ((((((2 * l * c) / 5) + 2) * bp * a / d) / 50) + 2) * stab * t1 * roll$
+
+$d = Dégats$
+
+$l = Niveau$
+
+$c = critique(1.5 si crit sinon 1)$
+
+$bp = Puissance de base de l'attaque$
+
+$a = ataque du monstre$
+
+$d = defense du monstre$
+
+$stab = même type de l'attaque que le monstre$
+
+$t1 = type1 du monstre$
+
+$roll = valeur aléatoire entre 0.9 et 1.1$
