@@ -1,0 +1,32 @@
+#+title: Todo
+
+* [0%] [0/0] T0D0
+
+** TODO [0%] [0/2] Reincarnation
+
+- [ ] Code the reincarnation
+- [ ] Add a reincarnation button to the monster information
+
+* DOING
+
+** TODO [66%] [2/3] Battle
+
+- [X] Show sprites
+- [X] Play moves
+- [-] End Combat
+  - [X] Add xp
+  - [X] Add EV
+  - [ ] Add Drop
+
+* D0NE
+
+** DONE [100%] [1/1] Monster List
+
+- [X] [2/2] Display Icons
+  - [X] Display Texture
+  - [X] Display Level
+
+** DONE [100%] [2/2] Party
+
+- [X] Show party
+- [X] Select and unselect monster
