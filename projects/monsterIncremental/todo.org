@@ -1,28 +1,13 @@
 #+title: Todo
 
-* [0%] [0/2] T0D0
+* T0D0
+
+* DOING
 
 ** TODO [0%] [0/2] Reincarnation
 
 - [ ] Code the reincarnation
 - [ ] Add a reincarnation button to the monster information
-
-** TODO [0%] [0/3] Craft
-
-- [ ] Craft Window
-- [ ] Inventory Window
-- [ ] Monster Craft
-
-* DOING
-
-** TODO [66%] [2/3] Battle
-
-- [X] Show sprites
-- [X] Play moves
-- [-] End Combat
-  - [X] Add xp
-  - [X] Add EV
-  - [ ] Add Drop
 
 * D0NE
 
@@ -36,3 +21,19 @@
 
 - [X] Show party
 - [X] Select and unselect monster
+
+** DONE [100%] [3/3] Battle
+
+- [X] Show sprites
+- [X] Play moves
+- [X] End Combat
+  - [X] Add xp
+  - [X] Add EV
+  - [X] Add Drop
+
+** DONE [100%] [4/4] Craft
+
+- [X] Craft Window
+- [X] Inventory Window
+- [X] Monster Craft
+- [X] Item Craft
