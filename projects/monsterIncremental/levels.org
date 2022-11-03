@@ -1,0 +1,19 @@
+#+title: Levels
+
+
+
+* Forest
+
+** 1-1
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | attack | defense | speed |
+| Green Slime |       1 |               0 |      |  0 |      0 |       0 |     0 |      |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |        |         |       |
+|             |         |                 |      |    |        |         |       |      |        |         |       |
+
+** 1-2
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | attack | defense | speed |
+| Green Slime |       1 |               0 |      |  0 |      0 |       0 |     0 |      |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |        |         |       |
+|             |         |                 |      |    |        |         |       |      |        |         |       |
