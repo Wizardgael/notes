@@ -4,16 +4,85 @@
 
 * Forest
 
-** 1-1
+** Easy
 
-| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | attack | defense | speed |
-| Green Slime |       1 |               0 |      |  0 |      0 |       0 |     0 |      |      0 |       0 |     0 |
-|             |         |                 |      |    |        |         |       |      |        |         |       |
-|             |         |                 |      |    |        |         |       |      |        |         |       |
+*** 1-1
 
-** 1-2
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Green Slime |       1 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
 
-| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | attack | defense | speed |
-| Green Slime |       1 |               0 |      |  0 |      0 |       0 |     0 |      |      0 |       0 |     0 |
-|             |         |                 |      |    |        |         |       |      |        |         |       |
-|             |         |                 |      |    |        |         |       |      |        |         |       |
+*** 1-2
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Green Slime |       5 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |       3 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-3
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Green Slime |      10 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-4
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Green Slime |      20 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Blue Slime  |      10 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-5
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Green Slime |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Blue Slime  |      35 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+
+*** Random
+
+Level: 30~40
+| Monster     | Percentage |
+| Green Slime |         70 |
+| Blue Slime  |         30 |
+
+* Volcano
+
+** Easy
+
+*** 1-1
+
+| *Name*    | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Red Slime |      40 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|           |         |                 |      |    |        |         |       |      |    |        |         |       |
+|           |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-2
+
+| *Name*    | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Red Slime |      45 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Red Slime |      50 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|           |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-3
+
+| *Name*    | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Red Slime |      60 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|           |         |                 |      |    |        |         |       |      |    |        |         |       |
+|           |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-4
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Red Slime   |      20 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |      10 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+|             |         |                 |      |    |        |         |       |      |    |        |         |       |
+
+*** 1-5
+
+| *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
+| Red Slime   |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |      35 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Red Slime   |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
