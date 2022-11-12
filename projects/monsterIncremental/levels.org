@@ -76,13 +76,20 @@ Level: 30~40
 *** 1-4
 
 | *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
-| Red Slime   |      20 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
-| Green Slime |      10 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Red Slime   |      80 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |      70 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
 |             |         |                 |      |    |        |         |       |      |    |        |         |       |
 
 *** 1-5
 
 | *Name*      | *Level* | *Reincarnation* | *IV* | hp | attack | defense | speed | *EV* | hp | attack | defense | speed |
-| Red Slime   |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
-| Green Slime |      35 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
-| Red Slime   |      30 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Red Slime   |     110 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Green Slime |     100 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+| Red Slime   |     110 |               0 |      |  0 |      0 |       0 |     0 |      |  0 |      0 |       0 |     0 |
+
+*** Random
+
+Level: 30~40
+| Monster     | Percentage |
+| Red Slime   |         70 |
+| Green Slime |         30 |
